@@ -3,8 +3,8 @@ import Link from "next/link";
 
 export default function Commands() {
   const commands = [
-    "/help",
-    "/invite",
+    "+yardım",
+    "+zar",
     "/lyrics",
     "/ping",
     "/stats",
