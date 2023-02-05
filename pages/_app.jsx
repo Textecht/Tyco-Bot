@@ -20,14 +20,14 @@ export default function AwardApp({ Component, pageProps }) {
   const NavItems = [
     {
       link: true,
-      name: "Home",
+      name: "Ana Sayfa",
       icon: "fal fa-home",
       activeIcon: "fa fa-home",
       href: "/",
     },
     {
       link: true,
-      name: "Commands",
+      name: "Komutlar",
       icon: "fa fa-list-alt",
       activeIcon: "fa fa-list-alt",
       href: "/commands",
